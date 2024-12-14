@@ -1,4 +1,5 @@
 # Serial Communication with LED Control
+![Signal Connection](https://github.com/user-attachments/assets/915310d6-7781-416f-b6c7-be746993ba48)
 
 ## Overview
 This project demonstrates serial communication between two Arduino programs. The **Sender** sends digital signals (`1` and `0`) at intervals, while the **Receiver** reads the signals and controls an LED based on the received data.
